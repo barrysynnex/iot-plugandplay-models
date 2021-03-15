@@ -1,0 +1,13 @@
+{
+    "@context": "dtmi:dtdl:context;2",
+    "@id": "dtmi:TEST:abc;1",
+    "@type": "Interface",
+    "displayName": "TEST-abc",
+    "contents": [
+        {
+            "@type": "Component",
+            "name": "WindowsDeviceInfo1",
+            "schema": "dtmi:Synnex:WindowsDeviceInfo;1"
+        }
+    ]
+}
